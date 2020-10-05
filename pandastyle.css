@@ -21,3 +21,7 @@ h1 {
     font-size: 60px;
     font-family: Georgia;
 }
+
+h1, h2 {
+text-shadow: 0px 0px 20px #252525;
+}
