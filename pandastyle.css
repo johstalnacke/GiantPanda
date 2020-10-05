@@ -2,10 +2,17 @@
     background-color: red;
 } */
 
+body {
+    font-family: Arial;
+    line-height: 25px;
+    }
+
 img {
     width:100%;
     }
 
-body {
-    font-family: Arial;
-}
+.column {
+    width: 600px;
+    margin: 40px auto;
+
+    }
