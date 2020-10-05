@@ -14,8 +14,10 @@ img {
 
 .column {
     width: 600px;
-    margin: 40px auto;
-
+    margin: 0px auto;
+    padding: 1px 40px 40px 40px;
+    background-color: white;
+    
     }
 
 h1 {
