@@ -18,3 +18,7 @@ img {
     padding: 15px;
 
     }
+
+p {
+    border: solid 5px red;
+}
